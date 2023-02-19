@@ -27,10 +27,10 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use our wonderful loan qualifier program please clone the repository and run the **newapp.py** with:
+To use our wonderful loan qualifier program please clone the repository and run the **loan_qualifier_app.py** with:
 
 ```python
-python newapp.py
+python loan_qualifier_app.py
 ```
 
 You will be greeted with prompts, *remember the file path for the data is (**data/daily_rate_sheet.csv**)*. And don't worry if you spell it incorrectly the first few times, it allows for a few mistakes.
